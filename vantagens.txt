@@ -1,0 +1,9 @@
+-Plataforma Auto Escalada
+-Imagem Customizada
+-Instalacao Automatizada
+-Custo Reduzido
+-Ambientes Reprodutiveis
+-Backups de Aplicacao
+-Self Healing
+-Versionamento de Configuracoes
+-Manutencao Simplificada
