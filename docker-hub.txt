@@ -1,4 +1,3 @@
 https://hub.docker.com/r/rennandealmeida/jenkins-devops/tags
 
-Obs: imagem construida para desenvolvimento de um curso, ha um possibilidade de precisar adequar aa sua necessidade.
-
+Obs: ao acessar o link acima escolha a ultima versao.
